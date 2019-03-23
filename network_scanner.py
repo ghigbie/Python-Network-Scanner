@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import scapy.app as scapy
+import scapy.all as scapy
 
 
 def scan(ip):
